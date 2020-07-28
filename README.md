@@ -5,5 +5,4 @@
 - 👯 I’m looking to collaborate on making virtual TV show
 - 🤔 I’m looking for help with building a studio crew
 - 💬 Ask me about the struggle to build an open Metaverse
-- 📫 How to reach me: @dankvr on twitter
-- ⚡ Fun fact: racecar is racecar spelled backwords
+- 📫 How to reach me: [@dankvr](https://twitter.com/dankvr) on twitter
