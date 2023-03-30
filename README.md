@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on decentralized virtual worlds
-- 🌱 I’m currently learning about web3 ([DAOs](https://daohaus.club/)/[DeFi](https://i.imgur.com/SgcgQ7p.png)/[NFTs](https://nonfungible.com/))
-- 👯 I’m looking to collaborate on making virtual TV show
-- 🤔 I’m looking for help with building a studio crew
-- 💬 Ask me about the struggle to build an open Metaverse
-- 📫 How to reach me: [@dankvr](https://twitter.com/dankvr) on twitter
+- 🔭 I’m currently working on decentralized virtual worlds (3D web)
+- 🌱 I’m currently learning about self-hosted AI / decentralized web
+- 👯 I’m looking to collaborate on digital art and virtual productions
+- 🤔 I’m looking for help on open source project grants: [dework](https://app.dework.xyz/m3)
+- 💬 Ask me about the struggles of building an open metaverse
+- 📫 How to reach me: [@dankvr](https://twitter.com/dankvr) Twitter or [M3 discord](https://discord.gg/m3org)
