@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on decentralized virtual worlds (3D web)
-- 🌱 I’m currently learning about self-hosted AI / decentralized web
+- 🌱 I’m currently learning about making interoperable wearables for avatars
 - 👯 I’m looking to collaborate on digital art and virtual productions
 - 🤔 I’m looking for help on open source project grants: [dework](https://app.dework.xyz/m3)
 - 💬 Ask me about the struggles of building an open metaverse
