@@ -5,7 +5,18 @@
 - 👯 I’m looking to collaborate on AI agents + virtual productions + [immersive web](https://github.com/hyperfy-xyz)
 - 📫 How to reach me: [@dankvr](https://twitter.com/dankvr) Twitter or [M3 discord](https://discord.gg/FJJb2EkWCh)
 
-<!-- WALLET-LINKS
-ethereum: 0x1234...
-solana: ABC123...
--->
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-05-30T17:52:39.853Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0xaAeaFB1d364273f0d074C7Fa0548e2Ea3ff5ccD5"
+    },
+    {
+      "chain": "solana",
+      "address": "8hwoZWg4evehwzwr4RGsiFDmo3VtEja9owEzGwZGYNZs"
+    }
+  ]
+}
+WALLET-LINKING-END -->
