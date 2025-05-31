@@ -7,11 +7,15 @@
 
 <!-- WALLET-LINKING-BEGIN
 {
-  "lastUpdated": "2025-05-31T04:00:39.699Z",
+  "lastUpdated": "2025-05-31T19:30:20.546Z",
   "wallets": [
     {
       "chain": "ethereum",
       "address": "0xaAeaFB1d364273f0d074C7Fa0548e2Ea3ff5ccD5"
+    },
+    {
+      "chain": "solana",
+      "address": "8hwoZWg4evehwzwr4RGsiFDmo3VtEja9owEzGwZGYNZs"
     }
   ]
 }
